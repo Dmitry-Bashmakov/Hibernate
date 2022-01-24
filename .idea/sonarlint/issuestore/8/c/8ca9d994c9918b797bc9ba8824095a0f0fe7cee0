@@ -1,0 +1,10 @@
+
+c	java:S116"NRename this field "SQL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•½“ª
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ñ½†š
+P
+java:S1141l"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+j
+java:S2095C"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(çåå¹ıÿÿÿÿ
+e
+java:S2095Z"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(šÁ•
